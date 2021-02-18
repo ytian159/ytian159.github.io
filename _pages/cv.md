@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geophysics, University of Science and Technology of China (USTC), 2014
+* Ph.D in Geophysics, University of Houston, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Geophysical Institute (GI), University of Alaska Fairbanks (UAF) Aug. 2020-present
+Postdoctoral Research Fellow                           Supervisor: Robert Herrick				  
+*	Development and initial testing of a Venus-analog seismic events catalog
+We have developed a partnership with NASA Glenn Research Center (GRC) and the Alaska Earthquake Center (AEC) to conduct research on evaluating the expected level and nature of seismic activity on Venus, constructing catalog of terrestrial analog events and assessing how potential design restrictions affect interpretability. The mid-term result of the project has been presented on the Venus Exploration Analysis Group (VEXAG).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  RevoChem LLC.  Jun. 2019-Aug. 2019
+  Data Scientist Intern		Supervisor: Ge Jin, Faye Liu					
+* Developed a Python toolkit with graphic user interface for oil and core chromatography data blob detection and information extraction.
+*	Started building a database of compounds exacted from oil and core chromatography.
+
   
 Skills
 ======
