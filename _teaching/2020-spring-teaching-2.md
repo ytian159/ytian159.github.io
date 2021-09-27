@@ -8,12 +8,3 @@ date: 2020-01-01
 location: "Houston, USA"
 ---
 Taught students using Mathematica to solve, visualize and present homework and graded exams.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
