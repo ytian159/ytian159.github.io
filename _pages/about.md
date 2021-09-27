@@ -11,7 +11,7 @@ redirect_from:
 
 **Tidal-seismic resonance between planets and their moons**
 ======
-![image](https://user-images.githubusercontent.com/53156528/134985077-218bffb9-0810-4578-b922-f32fe50219e3.gif)
+![image](https://user-images.githubusercontent.com/53156528/134987276-7a15bc59-0ab8-469d-8976-b3de3d83d6fb.gif)
 ======
 Resonance between seismic wavefield and tidal force.
 It can change the falling trajectory of a moon to the planet.
