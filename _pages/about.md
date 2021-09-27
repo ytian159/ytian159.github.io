@@ -32,6 +32,3 @@ SAEVe concept and instrument locations
 <img width="726" alt="image" src="https://user-images.githubusercontent.com/53156528/134985924-5baa2c26-6793-4f77-a0ff-6d9478bfc1c5.png">
 
 ------
-
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
