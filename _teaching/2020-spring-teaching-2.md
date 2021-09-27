@@ -1,7 +1,7 @@
 ---
 title: "•	Global Seismology"
 collection: teaching
-type: "undergraduate"
+type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "University of Houston, EAS"
 date: 2020-01-01
