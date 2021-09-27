@@ -32,6 +32,7 @@ SAEVe concept and instrument locations
 
 
 **Aerial hyperspectral image processing**
-<img width="726" alt="image" src="https://user-images.githubusercontent.com/53156528/134985924-5baa2c26-6793-4f77-a0ff-6d9478bfc1c5.png">
+======
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/53156528/134985924-5baa2c26-6793-4f77-a0ff-6d9478bfc1c5.png">
 
 ------
