@@ -53,7 +53,7 @@ Skills
 * Programming language: Matlab (7 years experience), Python (Almost two years experience), Perl, Fortran, C, IDL
 * Software and packages: 
   * Seismic Modeling: AxisSEM, MINEOS, DSMTI, F-K
-  * Seismic data processing: ObsPy, CreazySeismic, GISMO
+  * Seismic data processing: ObsPy, CreazySeismic
   * Mchine learning: Keras, TensorFlow, EQTransformer
 * Thoeretical skills: 
   * Full deriativation and visualiation of simple planets model (elastical, spherical, homogeneous) free oscillation normal modes.
