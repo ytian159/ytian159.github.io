@@ -50,7 +50,7 @@ School of Earth and Space Sciences, University of Science and Technology of Chin
   
 Skills
 ======
-* Programming language: Matlab (7 years experience), Python (Almost two years experience), Perl, Fortran, C, IDL
+* Programming language: Matlab (7 years experience), Python (Almost two years experience), Mathematica, Perl, Fortran, C, IDL
 * Software and packages: 
   * Seismic Modeling: AxisSEM, MINEOS, DSMTI, F-K
   * Seismic data processing: ObsPy, CreazySeismic
