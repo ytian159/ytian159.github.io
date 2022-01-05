@@ -3,7 +3,7 @@ title: "GEOS 627 Inverse Problems and Parameter Estimation	"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2022-spring-teaching-at UAF
-venue: "University of Houston"
+venue: "University of Alaska Fairbanks"
 date: 2022-01-01
 location: "Fairbanks, USA"
 ---
