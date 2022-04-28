@@ -12,6 +12,7 @@ redirect_from:
 I use seismology to study the earth, planets, and their moons. 
 I'm currently studying the amplitude amplification and waveform inversion of Alaska basins.
 I write my own seismic wavefield modeling code "AstroSeis" and also use other forward modeling codes to simulate wave propagation in solid planets and small bodies. These modeling work need lots of computation, so my work could involve a lot of use of supercomputer and GPU to accelerate my work. I also participate in the design of the Venus Seismometer, so my work involves designing triggering algorithms and machine-learning-based events detection algorithms for seismometers in high temperature and pressure. Here are some projects I'm involved in.
+**Nenana basin seismic wavefield modeling and seismic wave amplification (ongoing)**
 
 
 **3-D seismic wavefield modeling for irregular bodies**
@@ -29,6 +30,9 @@ Tidal forces play an important role in the evolution of the planet-moon systems.
 
 Resonance between seismic wavefield and tidal force.
 It can change the falling trajectory of a moon to the planet.
+![image](https://user-images.githubusercontent.com/53156528/165837418-e49bf565-d4e3-4799-bb10-6b8e70d9291c.png)
+A camera on NASA’s Perseverance rover captured an eclipse of the sun by Phobos, the larger of Mars’s two moons. Photo by NASA/JPL-Caltech/ASU/MSSS/SSI
+
 
 **Events catalog building and triggering algorithm for Venus seismometer**
 ------
