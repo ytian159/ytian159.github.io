@@ -12,6 +12,8 @@ redirect_from:
 I use seismology to study the earth, planets, and their moons. 
 I'm currently studying the amplitude amplification and waveform inversion of Alaska basins.
 I write my own seismic wavefield modeling code "AstroSeis" and also use other forward modeling codes to simulate wave propagation in solid planets and small bodies. These modeling work need lots of computation, so my work could involve a lot of use of supercomputer and GPU to accelerate my work. I also participate in the design of the Venus Seismometer, so my work involves designing triggering algorithms and machine-learning-based events detection algorithms for seismometers in high temperature and pressure. Here are some projects I'm involved in.
+
+
 **Nenana basin seismic wavefield modeling and seismic wave amplification (ongoing)**
 
 
