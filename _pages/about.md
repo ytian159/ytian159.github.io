@@ -15,7 +15,7 @@ I write my own seismic wavefield modeling code "AstroSeis" and also use other fo
 
 
 **Nenana basin seismic wavefield modeling and seismic wave amplification (ongoing)**
-
+------
 
 **3-D seismic wavefield modeling for irregular bodies**
 ------
