@@ -8,7 +8,6 @@ venue: 'Reviews of Geophysics and Planetary Physics'
 paperurl: 'http://www.sjdz.org.cn/en/article/doi/10.19975/j.dqyxx.2020-014'
 citation: 'Zheng, Y. and Tian, Y. (2021) Seismic wavefields in a planet and their influence on the satellite orbit. Reviews of Geophysics and Planetary Physics, 52(2): 205-210. doi: 10.16738/j.dqyxx.2020-014.'
 ---
-This paper is about 
 
 
 Recommended citation: Zheng, Y. and Tian, Y. (2021) Seismic wavefields in a planet and their influence on the satellite orbit. Reviews of Geophysics and Planetary Physics, 52(2): 205-210. doi: 10.16738/j.dqyxx.2020-014.
