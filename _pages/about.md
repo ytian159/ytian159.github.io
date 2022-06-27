@@ -17,6 +17,8 @@ I write my own seismic wavefield modeling code "AstroSeis" and also use other fo
 **SCOPED Nenana basin seismic wavefield modeling and seismic wave amplification (ongoing)**
 ------
 
+![image](https://user-images.githubusercontent.com/53156528/176000897-adbb8bdc-1fd9-4355-8545-81017d047219.gif)
+
 **3-D seismic wavefield modeling for irregular bodies**
 ------
 I developed a 3D elastic boundary element method computer code, called AstroSeis, to model seismic wavefields in a body with an arbitrary shape, such as an asteroid. Besides the AstroSeis can handle arbitrary surface topography, it can deal with a liquid core in an asteroid model. Both the solid and liquid domains are homogenous in our current code. For seismic sources, we can use single forces or moment tensors. The AstroSeis is implemented in the frequency domain, and the frequency-dependent Q can be readily incorporated. The code is in MATLAB, and it is straightforward to set up the model to run the code. The frequency-domain calculation is advantageous to study the long-term elastic response of a celestial body due to a cyclic force, such as the tidal force, with no numerical dispersion issue suffered by many other methods requiring volume meshing. AstroSeis has been benchmarked with other methods such as normal-mode summation and the direct solution method. This open-source AstroSeis will be a useful tool to study the interior and surface processes of asteroids.
