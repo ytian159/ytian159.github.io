@@ -2,7 +2,7 @@
 title: "Seismic wavefields in a planet and their influence on the satellite orbit"
 collection: publications
 permalink: /publication/2021-01-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2021-01-01
 venue: 'Reviews of Geophysics and Planetary Physics'
 paperurl: 'http://www.sjdz.org.cn/en/article/doi/10.19975/j.dqyxx.2020-014'
