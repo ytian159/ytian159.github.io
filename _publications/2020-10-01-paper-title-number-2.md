@@ -2,7 +2,7 @@
 title: "A 3D boundary element modeling code for seismic wavefields in irregular asteroids and bodies"
 collection: publications
 permalink: /publication/2020-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about 3-D boundary elements for seismic wave propagation problems in 3-D asteroid'
 date: 2020-10-01
 venue: 'Seismological Research Letters'
 paperurl: 'https://github.com/ytian159/ytian159.github.io/blob/master/files/srl-2020145.1.pdf'
