@@ -54,7 +54,7 @@ Skills
 * Software and packages: 
   * Seismic Modeling: AxisSEM, MINEOS, DSMTI, F-K
   * Seismic data processing: ObsPy, CreazySeismic
-  * Mchine learning: Keras, TensorFlow, EQTransformer
+  * Machine learning: Keras, TensorFlow, EQTransformer
 * Thoeretical skills: 
   * Full deriativation and visualiation of simple planets model (elastical, spherical, homogeneous) free oscillation normal modes.
   * Derivation of numerical seismic wavefield propagation using boundary element method (BEM) and finite difference (FD) method.
