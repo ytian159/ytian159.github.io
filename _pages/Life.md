@@ -4,6 +4,9 @@ author_profile: true
 title: 'Life in Alaska'
 date: 2020-08
 permalink: /Life/
+---
+
+{% include base_path %}
 
 
 # Aurora photography
