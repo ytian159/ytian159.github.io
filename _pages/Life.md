@@ -4,7 +4,6 @@ date: 2020-08
 permalink: /posts/2012/08/blog-post-1/
 
 # Aurora photography
-
 ![_DSC2832](https://user-images.githubusercontent.com/53156528/148191627-75f89fee-3c00-4233-b31a-2ac3d7d736b3.jpg)
 ![_DSC2838](https://user-images.githubusercontent.com/53156528/148191768-19a0dc97-6873-4cc0-b294-086bd8ed0c4e.jpg)
 ![DSC_1005 3](https://user-images.githubusercontent.com/53156528/148191955-99efcb8d-0384-41e3-adbe-cad5933921b0.JPG)
