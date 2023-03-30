@@ -1,7 +1,10 @@
 ---
+layout: archive
+author_profile: true
 title: 'Life in Alaska'
 date: 2020-08
-permalink: /posts/2012/08/blog-post-1/
+permalink: /Life/
+
 
 # Aurora photography
 ![_DSC2832](https://user-images.githubusercontent.com/53156528/148191627-75f89fee-3c00-4233-b31a-2ac3d7d736b3.jpg)
