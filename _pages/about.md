@@ -17,6 +17,7 @@ I write my own seismic wavefield modeling code "AstroSeis" and also use other fo
 **SCOPED Nenana basin seismic wavefield modeling and seismic wave amplification**
 ------
 <img src="images/wavefield_propagation_nenana_CMTSOLUTION_20181003032937544_short.gif" alt="description of the gif">
+
 Seismic wave propagation in Nenana basin region using SpecFEM3D Cartesian
 
 
