@@ -47,13 +47,13 @@ A camera on NASA’s Perseverance rover captured an eclipse of the sun by Phobos
 ------
 The nearest-term pathway to deployment of a seismometer on Venus is an instrument that can operate under ambient surface conditions on battery power.  We conduct a series of studies on combined hardware and software approaches to maximize the quality of data returned under the likely restrictions of no lander data storage and only being able to transmit in real time a small fraction of a multi-month data record.  We assess likely Venus seismicity by examining different terrestrial analog settings; we find that likely Venus analog settings all fall within about an order of magnitude of mean Earth in terms of seismicity level. We developed a low-memory method that mimics the common terrestrial long-term-average/short-term-average trigger in success at triggering on earthquakes and not noise.  
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53156528/134985544-ebf8deed-ca52-4887-8299-36b27d21d70c.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/53156528/134985544-ebf8deed-ca52-4887-8299-36b27d21d70c.png">
 
 SAEVe concept and instrument locations
 
 
 
-<img width="564" alt="image" src="https://user-images.githubusercontent.com/53156528/228992819-ce4df045-68c9-473b-89f1-86d9d4d1e8fe.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53156528/228992819-ce4df045-68c9-473b-89f1-86d9d4d1e8fe.png">
 
 Illustration of the “segmented window” method. Inspired by STA/LTA method, but it needs store three parameters on the lander. (Tian et al., 2022)
 
