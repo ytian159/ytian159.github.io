@@ -14,7 +14,7 @@ I'm currently studying the amplitude amplification and waveform inversion of Ala
 I write my own seismic wavefield modeling code "AstroSeis" and also use other forward modeling codes to simulate wave propagation in solid planets and small bodies. These modeling work need lots of computation, so my work could involve a lot of use of supercomputer and GPU to accelerate my work. I also participate in the design of the Venus Seismometer, so my work involves designing triggering algorithms and machine-learning-based events detection algorithms for seismometers in high temperature and pressure. Here are some projects I'm involved in.
 
 
-**SCOPED Nenana basin seismic wavefield modeling and seismic wave amplification **
+**SCOPED Nenana basin seismic wavefield modeling and seismic wave amplification**
 ------
 <img src="images/wavefield_propagation_nenana_CMTSOLUTION_20181003032937544_short.gif" alt="description of the gif">
 Seismic wave propagation in Nenana basin region using SpecFEM3D Cartesian
