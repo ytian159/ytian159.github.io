@@ -49,7 +49,11 @@ The nearest-term pathway to deployment of a seismometer on Venus is an instrumen
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53156528/134985544-ebf8deed-ca52-4887-8299-36b27d21d70c.png">
 
 SAEVe concept and instrument locations
+
+
+
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/53156528/228992819-ce4df045-68c9-473b-89f1-86d9d4d1e8fe.png">
+
 Illustration of the “segmented window” method. Inspired by STA/LTA method, but it needs store three parameters on the lander. (Tian et al., 2022)
 
 
