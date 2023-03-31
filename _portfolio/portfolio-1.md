@@ -1,6 +1,6 @@
 ---
 title: "Life in Alaska"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Life in Alaska<br/><img src='/images/DSC_1120.jpg'>"
 collection: portfolio
 ---
 
