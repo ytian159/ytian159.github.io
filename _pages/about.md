@@ -20,7 +20,8 @@ I write my own seismic wavefield modeling code "AstroSeis" and also use other fo
 
 Seismic wave propagation in Nenana basin region using SpecFEM3D Cartesian
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53156528/236110869-e4476742-c5f2-413a-8d3c-3fad0c418b43.png">
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/53156528/236111248-efe92c34-b409-42b9-a920-fb0619480407.png">
+
 Basin amplification map of Nenana basin at 0.2Hz 
 
 **3-D seismic wavefield modeling for irregular bodies**
