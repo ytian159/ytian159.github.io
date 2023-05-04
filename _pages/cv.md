@@ -16,8 +16,14 @@ Education
 
 Research Projects
 ======
+**Seismic response of Nenana basin, central Alaska, from 3D seismic wavefield simulations of local and regional earthquakes**
+Geophysical Institute (GI), University of Alaska Fairbanks (UAF) (Aug. 2021-present)
+* Supervisor: Carl Tape
+* We have developed a  preliminary model for the Nenana Basin region. With the benefits from high-quality data gathered at recently deployed stations. This region serves as an excellent testing ground for analyzing wave propagation in sedimentary basins. Our comparison of basin amplification effects between observed data and synthetic models reveals that amplification within basins is a complex phenomenon. Distinct resonance modes may be excited at varying frequencies or locations throughout the basin.
+
+
 **Venuse seismicity estimation and seismometer design under high tempurature and pressure** 
-Geophysical Institute (GI), University of Alaska Fairbanks (UAF) (Aug. 2020-present)
+Geophysical Institute (GI), University of Alaska Fairbanks (UAF) (Aug. 2020-2021)
 * Title:Postdoctoral Research Associate                           
 * Supervisor: Robert Herrick				  
   *	Development and testing of a Venus-analog seismic events catalog using conventional and machine-learning seismicity detection method. Designed a operating mechanism for the Venus seismometer under development of NASA Glenn Research Center to detect more seismic events with minimum energy consumption. 
@@ -52,7 +58,7 @@ Skills
 ======
 * Programming language: Matlab (7 years experience), Python (Almost two years experience), Mathematica, Perl, Fortran, C, IDL
 * Software and packages: 
-  * Seismic Modeling: AxisSEM, MINEOS, DSMTI, F-K
+  * Seismic Modeling: SpecFEM, BEM, DSM, AxisSEM, MINEOS, F-K
   * Seismic data processing: ObsPy, CreazySeismic
   * Machine learning: Keras, TensorFlow, EQTransformer
 * Thoeretical skills: 
