@@ -40,10 +40,6 @@ Resonance between seismic wavefield and tidal force.
 It can change the falling trajectory of a moon to the planet.
 
 
-![image](https://user-images.githubusercontent.com/53156528/165837418-e49bf565-d4e3-4799-bb10-6b8e70d9291c.png)
-
-A camera on NASA’s Perseverance rover captured an eclipse of the sun by Phobos, the larger of Mars’s two moons. Photo by NASA/JPL-Caltech/ASU/MSSS/SSI
-
 
 **Events catalog building and triggering algorithm for Venus seismometer**
 ------
