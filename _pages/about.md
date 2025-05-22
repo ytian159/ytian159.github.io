@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I use seismology to study the Earth, planets, and their moons, focusing on understanding complex geological processes through seismic wave analysis. My work involves developing and applying advanced computational tools, including my 3D boundary element method (BEM) code "AstroSeis", and utilizing other sophisticated modeling software like SpecFEM as part of my work on seismic wave propagation in sedimentary basins. These simulations are often computationally intensive, requiring high-performance computing.
 
-I use seismology to study the earth, planets, and their moons. 
-I'm currently studying the amplitude amplification and waveform inversion of Alaska basins.
-I write my own seismic wavefield modeling boundary element method (BEM) code "AstroSeis" and also use other forward modeling codes to simulate wave propagation in solid planets and small bodies. These modeling work need lots of computation, so my work could involve a lot of use of supercomputer and GPU to accelerate my work. I also participate in the design of the Venus Seismometer, so my work involves designing triggering algorithms and machine-learning-based events detection algorithms for seismometers in high temperature and pressure. Here are some projects I'm involved in.
+My current research at Lawrence Livermore National Laboratory (LLNL) centers on leveraging machine learning for various geophysical applications. I am the Principal Investigator for the project “Machine Learning-Driven Autonomous Workflow for UAV Magnetic Data Processing and Interpretation”. I also contribute to the National Risk Assessment Partnership (NRAP) by developing seismic survey design modules for geologic carbon storage (GCS) using seismic sensitivity modeling, and I apply machine learning to airborne magnetic anomaly data to help find Undocumented Orphaned Wells (UOWs) under the UOW Research Program.
 
+My broader research interests include planetary seismology, seismic waveform imaging, basin amplification , normal modes, and planet tides (a focus of my Ph.D. research ). Significant past experiences, such as analyzing seismic wave amplification in Alaskan sedimentary basins  and contributing to the design of a Venus Seismometer—including developing triggering algorithms and machine-learning-based event detection —continue to inform my work
 
 **SCOPED Nenana basin seismic wavefield modeling and seismic wave amplification**
 ------
