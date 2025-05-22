@@ -26,7 +26,7 @@ Postdoctoral Research Staff (Sep. 2023-present)
 
 **Seismic response of Nenana basin, central Alaska, from 3D seismic wavefield simulations of local and regional earthquakes**
 
-Geophysical Institute (GI), University of Alaska Fairbanks (UAF) (Aug. 2021-present)
+Geophysical Institute (GI), University of Alaska Fairbanks (UAF) (Aug. 2021-2023)
 * Supervisor: Carl Tape
 * We have developed a  preliminary model for the Nenana Basin region. With the benefits from high-quality data gathered at recently deployed stations. This region serves as an excellent testing ground for analyzing wave propagation in sedimentary basins. Our comparison of basin amplification effects between observed data and synthetic models reveals that amplification within basins is a complex phenomenon. Distinct resonance modes may be excited at varying frequencies or locations throughout the basin.
 
