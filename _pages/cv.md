@@ -70,15 +70,15 @@ School of Earth and Space Sciences, University of Science and Technology of Chin
   
 Skills
 ======
-* Programming language: Matlab, Python, Mathematica, Perl, Fortran, C, IDL
+* Programming language: Matlab, Python, Mathematica, Perl, Fortran, C
 * Software and packages: 
   * Seismic Modeling: SpecFEM, BEM, DSM, AxisSEM, MINEOS, F-K
-  * Seismic data processing: ObsPy, CreazySeismic
-  * Machine learning: Keras, TensorFlow, EQTransformer
+  * Seismic data processing: ObsPy, PySep
+  * Machine learning: PyTorch, Keras, TensorFlow, EQTransformer
 * Thoeretical skills: 
   * Full deriativation and visualiation of simple planets model (elastical, spherical, homogeneous) free oscillation normal modes.
   * Derivation of numerical seismic wavefield propagation using boundary element method (BEM) and finite difference (FD) method.
-  * Semi-analytical solution of a spherical 1-D planet normal modes using Galerkin method.
+  * Semi-analytical solution of a spherical 1-D planet normal modes using Discontinuous Galerkin method.
 * High performance computing using Cluster and GPU.
 
 Publications
