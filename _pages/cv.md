@@ -70,11 +70,12 @@ School of Earth and Space Sciences, University of Science and Technology of Chin
   
 Skills
 ======
-* Programming language: Matlab, Python, Mathematica, Perl, Fortran, C
+* Programming language: Python, Matlab, Mathematica, Perl, Fortran, C
 * Software and packages: 
   * Seismic Modeling: SpecFEM, BEM, DSM, AxisSEM, MINEOS, F-K
   * Seismic data processing: ObsPy, PySep
-  * Machine learning: PyTorch, Keras, TensorFlow, EQTransformer
+  * Machine learning: PyTorch, Keras, TensorFlow
+  * Remore sensing: Google Earth Engine
 * Thoeretical skills: 
   * Full deriativation and visualiation of simple planets model (elastical, spherical, homogeneous) free oscillation normal modes.
   * Derivation of numerical seismic wavefield propagation using boundary element method (BEM) and finite difference (FD) method.
