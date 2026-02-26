@@ -16,13 +16,18 @@ Education
 
 Research Projects
 ======
+**University of California, Berkeley**
+
+Assistant Project Scientist (Jan. 2026-present)
+*   Research on computational seismology and the Distributional Finite Difference Method (DFDM) for seismic wave propagation. Developing and benchmarking DFDM solvers for wave equations, with applications to understanding seismic wave behavior in complex geological structures and earth interior.
+
 **Lawrence Livermore National Laboratory (LLNL)**
 
-Postdoctoral Research Staff (Sep. 2023-present)
+Postdoctoral Research Staff (Sep. 2023-Jan. 2026)
 *   **National Risk Assessment Partnership (NRAP)**
     NRAP develops computational tools and workflows to quantitatively assess risks and potential liabilities associated with geologic carbon storage and address critical stakeholder questions in support of commercial CCS deployment. I was responsible for the development of the GCS seismic survey design module using seismic sensitivity modeling.
 *   **Undocumented Orphaned Well Research Program (UOWP)**
-    UOWP aims to develop technologies and methodologies to enable the finding and characterization of undocumented orphaned wells by determining their physical locations, methane emissions, wellbore integrity, and any additional environmental impacts. I use machine learning to help find UOWs from airborne magnetic anomaly data.
+    UOWP aims to develop technologies and methodologies to enable the finding and characterization of undocumented orphaned wells by determining their physical locations, methane emissions, wellbore integrity, and any additional environmental impacts. I used machine learning to help find UOWs from airborne magnetic anomaly data.
 
 **Seismic response of Nenana basin, central Alaska, from 3D seismic wavefield simulations of local and regional earthquakes**
 
