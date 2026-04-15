@@ -14,6 +14,8 @@ I am currently an Assistant Project Scientist at the University of California, B
 
 My broader research interests include seismic wave amplification in sedimentary basins, planetary seismology, seismic waveform imaging, and normal modes. Previously at Lawrence Livermore National Laboratory, I worked on machine learning for geophysical applications, geologic carbon storage risk assessment, and orphaned well detection. My work on seismic wave amplification in Alaskan sedimentary basins and contributing to the design of a Venus Seismometer continue to inform my research.
 
+In my latest work, I developed an elastic-wave sensitivity-guided framework for adaptive seismic survey design, enabling cost-effective monitoring of CO2 plumes in geological carbon storage.
+
 **SCOPED Nenana basin seismic wavefield modeling and seismic wave amplification**
 ------
 <img src="images/wavefield_propagation_nenana_CMTSOLUTION_20181003032937544_short.gif" alt="description of the gif">
